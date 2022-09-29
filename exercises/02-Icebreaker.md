@@ -20,4 +20,8 @@ Be warned, reviewers may dare you to add flare. If you don't know what flare is,
 
 ### Add Your Info Below...
 
+<pre>
+Hello my name is Christine.
+My favorite quote is "They may not remember what you said but they'll always remember how you made them feel".
+</pre>
 
